@@ -4,7 +4,7 @@ This code is an exercise I carried out with the intention of observing in 3D the
 ![Antioquia canopy height](images/ch_antioquia_3d.png)
 
 
-The data were obtain from (Lang et al., 2023): https://www.nature.com/articles/s41559-023-02206-6
+The data were obtained from (Lang et al., 2023): https://www.nature.com/articles/s41559-023-02206-6
 
 Parts of the code were taken and modified from: https://github.com/milos-agathon/3d-forest-height-maps
 
