@@ -1,6 +1,8 @@
 # 3D representation of Antioquia canopy height
 This code is an exercise I carried out with the intention of observing in 3D the forest canopy height of Antioquia, one of the most diverse and populated regions of Colombia. 
 
+![Antioquia canopy height](images/ch_antioquia_3d.png)
+
 
 The data were obtain from (Lang et al., 2023): https://www.nature.com/articles/s41559-023-02206-6
 
